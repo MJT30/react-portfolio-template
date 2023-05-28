@@ -1,10 +1,10 @@
 {
   "name": "Myles Turner",
   "headerTaglineOne": "Hello ",
-  "headerTaglineTwo": "I am Myles Turner - curious",
+  "headerTaglineTwo": "I am Myles Turner a,",
   "headerTaglineThree": "designer and devloper",
   "headerTaglineFour": " based in Los Angeles, California.",
-  "showCursor": true,
+  "showCursor": false,
   "showBlog": true,
   "darkMode": true,
   "showResume": true,
@@ -15,107 +15,93 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/mylesturner/"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/mylest913"
-    },
+    { "id": "3", "title": "Twitter", "link": "https://twitter.com/mylest913" },
     { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
     { "id": "5", "title": "Email", "link": "mailto:mylest913@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Games you Love",
+      "description": "Web Development ",
+      "imageSrc": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80",
+      "url": "https://github.com/MJT30/Video-Game-App"
     },
     {
       "id": "2",
-      "title": "Project Two",
+      "title": "Trail Blazers",
       "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "imageSrc": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "url": "https://github.com/CoreyLongDev/trailblazer-frontend"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "My Hero Academia Database(WIP)",
+      "description": "Database",
+      "imageSrc": "https://images.unsplash.com/photo-1665042099439-39d93c1117e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1712&q=80",
+      "url": "https://github.com/MJT30/MyHero"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "The Legend of Zelda App(WIP)",
+      "description": "API calls on the backend to fetch and render on the frontend",
+      "imageSrc": "https://images.unsplash.com/photo-1635514569146-9a9607ecf303?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "url": "https://github.com/MJT30/Zelda-App"
     }
   ],
   "services": [
-    {
-      "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
-    },
-    {
-      "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
-    },
     {
       "id": "3",
       "title": "Web Design",
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     },
     {
-      "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "id": "7ebd507e-7adc-42c2-8c45-985c5f72b58a",
+      "title": "Solutions Engineering ",
+      "description": "Working with clients to find and provide solutions to software issues."
+    },
+    {
+      "id": "8d51985f-15c5-4df1-b0e4-345b6159858e",
+      "title": "Technical Support",
+      "description": "Whether in person or over the web, I can help with any technical problem."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "I am a Software Engineer located in the Greater Los Angeles area. My history of working in customer service motivates me to build connections with people and always help them solve any problem.  As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies. \n\n\nI have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course. I am looking to go back to school to earn my Bachelors's in Game Programing from The Academy of Art University in the near future in order to provide new opportunities for myself. \n\nI am an avid gamer. I am quite of a nerd when it comes to Video Games, Film, Sci-fi, Anime & Manga. I collect Funko Pops and like to build Star Wars LEGOS. My favorite movie is Blade Runner 2049. When I'm not doing nerdy things, I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays. ",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "👋  I'm a Software Developer",
+    "description": "Well-versed with React, Javascript, and most of the Web frameworks.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
+        "dates": "January 2022 - Present",
+        "type": "Part-Time",
+        "position": "Freelance Frontend Developer ",
         "bullets": "Bullet One, Bullet Two"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        "dates": "",
+        "type": "",
+        "position": "",
+        "bullets": ""
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "General Assembly",
+      "universityDate": "2022-2022",
+      "universityPara": "Streamlined skills in HTML, CSS, and JavaScript while developing skills in React, Express, MongoDB, Mongoose, and PostgreSQL in a 400+ hour immersive course"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs", "Express"],
+    "others": [
+      "AdobeXD",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Google Suite",
+      "Microsoft Suite",
+      "CLI"
+    ]
   }
 }
